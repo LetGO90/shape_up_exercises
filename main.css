@@ -1,0 +1,71 @@
+
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+a {
+    font-weight: bold;
+}
+
+
+header {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+header img {
+    float: left;
+    margin-right: 20px;
+}
+
+
+header h1 {
+    font-size: 2.2em;
+    color: steelblue;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+header h2 {
+    font-size: 1.3em;
+    margin-top: 0;
+}
+
+
+section a:link,
+section a:visited {
+    color: maroon;
+}
+
+section a:hover,
+section a:focus {
+    color: steelblue;
+}
+
+
+aside h2 {
+    color: maroon;
+}
+
+aside ul {
+    line-height: 1.5;
+}
+
+aside a:link,
+aside a:visited {
+    color: steelblue;
+}
+
+aside a:hover,
+aside a:focus {
+    color: maroon;
+}
+
+
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    margin-top: 30px;
+    padding-top: 10px;
+}
